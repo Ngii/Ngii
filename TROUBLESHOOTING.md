@@ -72,11 +72,9 @@ If you're seeing a usage limit message in VS Code even after upgrading to Pro or
    - Visit GitHub billing to confirm active subscription
 
 2. **Force Refresh in VS Code**
-   ```
    - Press Ctrl+Shift+P (Cmd+Shift+P on Mac)
    - Type: "Developer: Reload Window"
    - Press Enter
-   ```
 
 3. **Sign Out and Sign In**
    - In VS Code, click on account icon (bottom left)
