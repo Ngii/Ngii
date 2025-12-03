@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ngii
-- 👀 I’m interested in ...learning javascript
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...any javascript projects as a beginner
+- 👀 I’m interested in ...learning AI
+- 🌱 I’m currently learning ...AI
+- 💞️ I’m looking to collaborate on ...any AI projects as a beginner
 - 📫 How to reach me ...kayphanga@gmail.com
 
 <!---
